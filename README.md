@@ -3,18 +3,18 @@ Art of Assembly by Randall Hyde
 
 ### Part I: Machine Organization & Data Representation
 
-- [Chapter 1](pdfaoa/CH1.PDF): Data Representation
-- [Chapter 2](pdfaoa/CH2.PDF): Boolean Algebra
-- [Chapter 3](pdfaoa/CH3.PDF): System Organization
-- [Chapter 4](pdfaoa/CH4.PDF): Memory Layout and Access
+- [Chapter 1](pdfaoa/CH01.PDF): Data Representation
+- [Chapter 2](pdfaoa/CH02.PDF): Boolean Algebra
+- [Chapter 3](pdfaoa/CH03.PDF): System Organization
+- [Chapter 4](pdfaoa/CH04.PDF): Memory Layout and Access
 
 ### Part II: Basic Assembly Language
 
-- [Chapter 5](pdfaoa/CH5.PDF): Variables and Data Structures
-- [Chapter 6](pdfaoa/CH6.PDF): The 80x86 Instruction Set
-- [Chapter 7](pdfaoa/CH7.PDF): The UCR Standard Library for 80x86 Assembly Language Programmers
-- [Chapter 8](pdfaoa/CH8.PDF): MASM: Directives & Pseudo-Opcodes
-- [Chapter 9](pdfaoa/CH9.PDF): Arithmetic and Logical Operations
+- [Chapter 5](pdfaoa/CH05.PDF): Variables and Data Structures
+- [Chapter 6](pdfaoa/CH06.PDF): The 80x86 Instruction Set
+- [Chapter 7](pdfaoa/CH07.PDF): The UCR Standard Library for 80x86 Assembly Language Programmers
+- [Chapter 8](pdfaoa/CH08.PDF): MASM: Directives & Pseudo-Opcodes
+- [Chapter 9](pdfaoa/CH09.PDF): Arithmetic and Logical Operations
 - [Chapter 10](pdfaoa/CH10.PDF): Control Structures
 - [Chapter 11](pdfaoa/CH11.PDF): Procedures and Functions
 - [Chapter 12](pdfaoa/CH12.PDF): Procedures: Advanced Topics
