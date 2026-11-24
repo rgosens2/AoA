@@ -3,7 +3,7 @@ Art of Assembly by Randall Hyde
 
 ### **Part I: Machine Organization & Data Representation**
 
-- **[Chapter 1](pdfaoa/CH1.PDF):** Data Representation
+- [Chapter 1](pdfaoa/CH1.PDF): Data Representation
 - **[Chapter 2](pdfaoa/CH2.PDF):** Boolean Algebra
 - **[Chapter 3](pdfaoa/CH3.PDF):** System Organization
 - **[Chapter 4](pdfaoa/CH4.PDF):** Memory Layout and Access
