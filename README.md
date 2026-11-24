@@ -22,7 +22,7 @@ Art of Assembly by Randall Hyde
 ### **Part III: Intermediate Assembly Language**
 
 - **[Chapter 13](pdfaoa/CH13.PDF):** MS-DOS, PC-BIOS, and File I/O
-- **[Chapter 14](pdfaoa/CH14.PDF):** **Floating Point Arithmetic** *(IEEE 754 formats, FPU architecture, and instructions)*
+- **[Chapter 14](pdfaoa/CH14.PDF):** Floating Point Arithmetic
 - **[Chapter 15](pdfaoa/CH15.PDF):** Strings and Character Sets
 - **[Chapter 16](pdfaoa/CH16.PDF):** Pattern Matching
 
